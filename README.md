@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/1GnKDW36R620iD1UAPYUhB_uERbrQQWyM?usp=sha
 https://youtu.be/sgsVlzviJNg
 
 ## Introduction
-Greetings! I am Shubham Jain, a 22-year-old from India. I have graduated with my Bachelor’s Degree in Engineering and have been enrolled as a student for doing Masters in Computer Science at North Carolina State University, USA. I would like to thank you for providing me with this opportunity for participating in this AR-Hackathon. 
+Greetings! I am Shubham Jain, a 22-year-old from India. I have graduated with my Bachelor’s Degree in Engineering. I would like to thank you for providing me with this opportunity for participating in this AR-Hackathon. 
 My passion is coming up with creative ways to express a message, and innovative ideas that people share on social media. I have a personal interest in Augmented Reality, Artificial intelligence and I like discovering about the concepts of astrophysics as a hobby. 
 
 ## Inspiration
