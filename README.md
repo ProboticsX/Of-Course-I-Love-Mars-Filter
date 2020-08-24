@@ -1,5 +1,6 @@
 # Of-Course-I-Love-Mars-Filter
 During this pandemic, we all are stuck between four walls missing on what lies outside. How about an idea based that takes you to a different planet using AR for making Instagram Reels? How about Mars?
+
 ##Introduction
 Greetings! I am Shubham Jain, a 22-year-old from India. I have graduated with my Bachelor’s Degree in Engineering and have been enrolled as a student for doing Masters in Computer Science at North Carolina State University, USA. I would like to thank you for providing me with this opportunity for participating in this AR-Hackathon. 
 My passion is coming up with creative ways to express a message, and innovative ideas that people share on social media. I have a personal interest in Augmented Reality, Artificial intelligence and I like discovering about the concepts of astrophysics as a hobby. 
