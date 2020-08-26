@@ -4,9 +4,6 @@ During this pandemic, we all are stuck between four walls missing on what lies o
 ## Try This Effect
 https://www.instagram.com/ar/1248659558804298/
 
-## Code
-https://drive.google.com/drive/folders/1GnKDW36R620iD1UAPYUhB_uERbrQQWyM?usp=sharing
-
 ## Watch on Youtube
 https://youtu.be/sgsVlzviJNg
 
